@@ -1,4 +1,6 @@
-# AngularStarter
+# AngularStarter Repo
+
+This is the sample repo for the expressFlow Blog Post [Angular Animations](https://expressflow.com/blog/posts/angular-10-animations).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
 
